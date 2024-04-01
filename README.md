@@ -1,1 +1,2 @@
-# salario
+# Salario
+Este código HTML e PHP cria uma calculadora de salário para vendedores. A estrutura HTML define um formulário para inserir o nome do vendedor, a meta de venda semanal e a meta de venda mensal. O código PHP recebe os dados do formulário via método POST, realiza os cálculos com base nas metas estabelecidas e exibe o resultado do salário final. O CSS define estilos para o layout e a apresentação visual da página, incluindo cores, margens e tamanhos de fonte.
